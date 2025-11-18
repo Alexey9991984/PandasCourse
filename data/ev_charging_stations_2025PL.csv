@@ -1,0 +1,462 @@
+"id","name","city","country_code","state_province","latitude","longitude","ports","power_kw","power_class","is_fast_dc"
+460199,LIDL Supermarket,Międzyzdroje,PL,Zachodniopomorskie,53.924665,14.447102,1,60,DC_FAST_(50-149kW),true
+460080,Poznan Plaza,Poznan,PL,wielkopolska,52.441054,16.918287,1,22,AC_HIGH_(22-49kW),false
+459865,Parking Zawoja Markowa,Zawoja,PL,Małopolska,49.608836,19.517376,2,11,AC_L2_(7.5-21kW),false
+312711,Centrum Medyczne Biale Blota,Biale Blota,PL,"",53.096373,17.90386,1,22,AC_HIGH_(22-49kW),false
+312658,MOP Leonia,Leonia,PL,"",52.15167,18.456792,2,150,DC_ULTRA_(>=150kW),true
+307835,Amber Suite Hotel,Międzywodzie,PL,zachodniopomorskie,54.005477,14.698127,2,11,AC_L2_(7.5-21kW),false
+307729,stacja ładowania Leroy Merlin,Jelenia Góra,PL,"",50.923189,15.767121,1,22,AC_HIGH_(22-49kW),false
+307648,stacja ładowania,Jelenia Góra,PL,"",50.919471,15.759507,1,11,AC_L2_(7.5-21kW),false
+307435,Tesla Supercharger Gliwice,Gliwice,PL,"",50.256036,18.65446,12,250,DC_ULTRA_(>=150kW),true
+306835,Marina Solna Elbud 50kW,Pustkowo,PL,Gryfice County,54.061811,14.960052,2,50,DC_FAST_(50-149kW),true
+306398,Aleja Dębowa,Wrocław,PL,Dolnośląskie,51.079758,17.020224,3,180,DC_ULTRA_(>=150kW),true
+306208,Aleja Wilanowska,"",PL,województwo mazowieckie,52.179042,21.013328,2,50,DC_FAST_(50-149kW),true
+303140,Tesla Supercharger Warsaw,Ząbki,PL,"",52.3019,21.088114,14,250,DC_ULTRA_(>=150kW),true
+303139,Tesla Supercharger Bialystok,Białystok,PL,"",53.125324,23.168535,6,250,DC_ULTRA_(>=150kW),true
+303138,Tesla Supercharger Lublin,Lublin,PL,"",51.282172,22.570222,4,250,DC_ULTRA_(>=150kW),true
+303137,Tesla Supercharger Lucmierz,Zgierz,PL,"",51.8869,19.384361,4,250,DC_ULTRA_(>=150kW),true
+303136,Tesla Supercharger Szczecin,Szczecin,PL,"",53.381877,14.67017,12,250,DC_ULTRA_(>=150kW),true
+302372,kaufland stettin,Stettin,PL,"",53.38486,14.658785,3,18,AC_L2_(7.5-21kW),false
+301733,Ionity Skawina,Skawina,PL,województwo małopolskie,49.98901,19.834579,6,350,DC_ULTRA_(>=150kW),true
+301732,Ionity MOP Mlynski Staw (dir. Wroclaw),"",PL,"",50.676727,17.65732,4,350,DC_ULTRA_(>=150kW),true
+301731,Ionity MOP Mlynski Staw (dir. Katowice),"",PL,"",50.677413,17.650857,4,350,DC_ULTRA_(>=150kW),true
+301730,Ionity Radomsko,Radomsko,PL,województwo łódzkie,51.081975,19.375832,6,350,DC_ULTRA_(>=150kW),true
+301729,Ionity Poznan,"",PL,województwo wielkopolskie,52.352455,16.997591,4,350,DC_ULTRA_(>=150kW),true
+301728,Ionity Nowogard,Nowogard,PL,województwo zachodniopomorskie,53.68398,15.122877,6,350,DC_ULTRA_(>=150kW),true
+301727,Ionity Koszalin,"",PL,województwo zachodniopomorskie,54.202722,16.158699,6,350,DC_ULTRA_(>=150kW),true
+298781,Wataha Zawóz,Zawóz,PL,Podkarpackie,49.336982,22.437132,1,22,AC_HIGH_(22-49kW),false
+274124,Hotel Bulwar,Toruń,PL,"",53.007792,18.602038,1,3,AC_L1_(<7.5kW),false
+260322,"296",Godzieszów,PL,"",51.210488,15.238406,1,75,DC_FAST_(50-149kW),true
+235604,"Avia, Mieczysława Stagrowskiego",Radzyń Podlaski,PL,Powiat Radzyński,51.772323,22.614284,2,22,AC_HIGH_(22-49kW),false
+210127,Elocity Quattro Business Park 1,Kraków,PL,małopolskie,50.085833,19.976074,2,22,AC_HIGH_(22-49kW),false
+210126,Elocity Quattro Business Park 3,Kraków,PL,województwo małopolskie,50.086437,19.97571,3,22,AC_HIGH_(22-49kW),false
+209985,Trasa Bohaterów Bitwy Warszawskiej 1920 r.,"",PL,województwo dolnośląskie,51.239796,17.500438,1,50,DC_FAST_(50-149kW),true
+203702,S6 MOP Jarkowo Południe,Jarkowo,PL,województwo zachodniopomorskie,53.987127,15.436634,1,100,DC_FAST_(50-149kW),true
+203701,S6 MOP Jarkowo Północ,Jarkowo,PL,województwo zachodniopomorskie,53.988588,15.435134,1,100,DC_FAST_(50-149kW),true
+195017,IONITY Świecko,Świecko,PL,"",52.313106,14.641469,2,350,DC_ULTRA_(>=150kW),true
+195016,IONITY MOP Olsze (dir. Lodz),Olsze,PL,"",53.889183,18.630781,2,350,DC_ULTRA_(>=150kW),true
+195015,IONITY MOP Olsze (dir. Gdańsk),Olsze,PL,"",53.886851,18.630851,2,350,DC_ULTRA_(>=150kW),true
+194562,IONITY Zgorzelec,Jędrzychowice,PL,Lower Silesian Voivodeship,51.177008,15.031898,2,350,DC_ULTRA_(>=150kW),true
+194466,IONITY MOP Nowostawy (dir. Warsaw),Nowostawy Dolne,PL,Łódź Voivodeship,51.897645,19.706614,2,350,DC_ULTRA_(>=150kW),true
+194465,Autostrada Wolności,Nowostawy Dolne,PL,Łódź Voivodeship,51.900432,19.706458,2,350,DC_ULTRA_(>=150kW),true
+194460,IONITY Kaszewy Kóscielne (Kutno),Kaszewy Kościelne,PL,"",52.219064,19.461939,2,350,DC_ULTRA_(>=150kW),true
+194334,KGHM Legnica Tauron,Legnica,PL,Legnica,51.188026,16.121551,2,50,DC_FAST_(50-149kW),true
+194333,KGHM Lubin Tauron centrum,Lubin,PL,Lubin,51.408954,16.197659,2,50,DC_FAST_(50-149kW),true
+194332,KGHM Lubin Tauron (S3),Lubin,PL,Lubin,51.435633,16.156244,2,50,DC_FAST_(50-149kW),true
+194331,KGHM Głogów Tauron,Żukowice,PL,Głogów,51.679013,15.995578,1,50,DC_FAST_(50-149kW),true
+194330,"62a Legnicka",Wrocław,PL,Lower Silesian Voivodeship,51.12175,16.990022,1,50,DC_FAST_(50-149kW),true
+194329,Lidl Stacja Ładowania,Łódź,PL,"",51.675622,19.40268,1,25,AC_HIGH_(22-49kW),false
+191509,Autocentrum Kielce (P) - Audi Kielce,Kielce,PL,"",50.900501,20.590544,1,25,AC_HIGH_(22-49kW),false
+189690,Bieszczadzka Wytwórnia Piwa Ursa Maior,Uherce Mineralne,PL,podkarpackie,49.471476,22.413287,1,22,AC_HIGH_(22-49kW),false
+189518,MOP Guzew,Guzew,PL,"",51.634367,19.437849,1,50,DC_FAST_(50-149kW),true
+189427,zepto.pl Strzelno,Strzelno,PL,"",52.628374,18.171247,1,22,AC_HIGH_(22-49kW),false
+295782,GreenWay Elektrownia Powiśle,Warszawa,PL,Mazowieckie,52.241001,21.026084,2,140,DC_FAST_(50-149kW),true
+213400,Polenergia - Mickiewicza 29,Katowice,PL,Silisian Voiodeship,50.263235,19.014078,3,150,DC_ULTRA_(>=150kW),true
+188549,Galeria Biłgorajska,Biłgoraj,PL,Lublin Voivodeship,50.541236,22.723666,1,22,AC_HIGH_(22-49kW),false
+175718,EXPERT Roczniak,Tarnów,PL,małopolskie,50.035198,21.006131,1,40,AC_HIGH_(22-49kW),false
+175717,Galicyjska - Zielonki,Zielonki,PL,małopolskie,50.119279,19.927629,1,40,AC_HIGH_(22-49kW),false
+175716,Urząd Gminy Zielonki,Zielonki,PL,małopolskie,50.117884,19.920584,1,20,AC_L2_(7.5-21kW),false
+175659,Dworzec PKP Gdynia Główna,Gdynia,PL,Pomeranian Voivodeship,54.521101,18.530987,2,22,AC_HIGH_(22-49kW),false
+175658,Dworzec PKP Bydgoszcz Główna,Bydgoszcz,PL,Kuyavian-Pomeranian Voivodeship,53.135283,17.992965,2,22,AC_HIGH_(22-49kW),false
+175657,Dworzec PKP Warszawa Wschodnia,Warsaw,PL,Masovian Voivodeship,52.252045,21.050473,2,22,AC_HIGH_(22-49kW),false
+175656,Dworzec PKP Wrocław Główny,Wrocław,PL,Lower Silesian Voivodeship,51.099016,17.03841,2,22,AC_HIGH_(22-49kW),false
+175655,Dworzec PKP Opole Główne,Opole,PL,Opole Voivodeship,50.662273,17.927589,2,22,AC_HIGH_(22-49kW),false
+175653,Dworzec PKP Gliwice,Gliwice,PL,Silesian Voivodeship,50.300509,18.676759,2,22,AC_HIGH_(22-49kW),false
+175522,IBIS Hotel Zagórna,Warsaw,PL,Mazowieckie,52.226323,21.042568,1,40,AC_HIGH_(22-49kW),false
+175511,Ekomarina Pisz,Pisz,PL,Warmian-Masurian Voivodeship,53.639434,21.824924,1,22,AC_HIGH_(22-49kW),false
+175415,Wieża ciśnień w Piszu,Pisz,PL,Warmian-Masurian Voivodeship,53.623311,21.795105,2,22,AC_HIGH_(22-49kW),false
+175414,Urząd Miejski w Piszu,Pisz,PL,Warmian-Masurian Voivodeship,53.630868,21.805289,1,40,AC_HIGH_(22-49kW),false
+175396,Siewna,Kraków,PL,województwo małopolskie,50.095136,19.950465,4,40,AC_HIGH_(22-49kW),false
+174509,Kaufland,Zielona Góra,PL,Lubusz Voivodeship,51.936772,15.516846,1,50,DC_FAST_(50-149kW),true
+172746,Plan miasta,Ciechanów,PL,Masovian Voivodeship,52.88383,20.6182,2,22,AC_HIGH_(22-49kW),false
+172711,"10 Marii Skłodowskiej-Curie",Białystok,PL,Podlaskie Voivodeship,53.128319,23.157868,1,50,DC_FAST_(50-149kW),true
+171420,HOWARDKNOPFLER,Jaśkowice,PL,"",49.959219,19.666252,1,7,AC_L1_(<7.5kW),false
+171315,PKN Orlen,Łączyn,PL,Świętokrzyskie Voivodeship,50.623327,20.28386,2,50,DC_FAST_(50-149kW),true
+169763,Kielce Parking Centrum,Kielce,PL,Świętokrzyskie Voivodeship,50.872659,20.628984,2,7,AC_L1_(<7.5kW),false
+169762,Kielecki Park Technologiczny,Kielce,PL,Świętokrzyskie Voivodeship,50.894917,20.621316,2,22,AC_HIGH_(22-49kW),false
+169761,NOXO Hotel Paradiso,Suchedniów,PL,Świętokrzyskie Voivodeship,51.067327,20.841432,1,22,AC_HIGH_(22-49kW),false
+168099,PGE CH Echo / Carrefour Olkusz,Olkusz,PL,Malopolskie,50.281778,19.568034,2,50,DC_FAST_(50-149kW),true
+167250,"15 Żagańska",Iłowa,PL,Lubusz Voivodeship,51.502015,15.199747,1,,UNKNOWN,false
+162381,MOP Olsztynek Południe,Drwęck,PL,powiat olsztyński,53.582205,20.181299,1,100,DC_FAST_(50-149kW),true
+162312,Restauracja Diabelski Młyn,Koronowo,PL,"",53.314422,17.930142,2,22,AC_HIGH_(22-49kW),false
+162306,Platinum Mountain Hotel & Spa,Szklarska Poręba,PL,"",50.818468,15.527284,2,22,AC_HIGH_(22-49kW),false
+162240,Ptak Outlet,Bezirk Lodzki,PL,Bezirk Lodzki,51.646729,19.48718,1,50,DC_FAST_(50-149kW),true
+162239,Hotel Puławska Residence,Warsaw,PL,Masovian Voivodeship,52.151255,21.018491,1,7,AC_L1_(<7.5kW),false
+162238,Royal Wilanów,Warschau,PL,Woiwodschaft Masowien,52.163441,21.082717,1,3,AC_L1_(<7.5kW),false
+162237,Auchan Białystok Hetmańska,Bialystok,PL,Białystok,53.133945,23.119407,1,40,AC_HIGH_(22-49kW),false
+162236,Auchan Produkcyjna,Bialystok,PL,Białystok,53.160006,23.09565,1,40,AC_HIGH_(22-49kW),false
+161551,PKN Orlen,Rybnik,PL,"",50.132139,18.551184,2,100,DC_FAST_(50-149kW),true
+161418,Greenway,Góra Libertowska,PL,"",49.980794,19.90961,2,50,DC_FAST_(50-149kW),true
+188335,Tauron Fabryka Porcelany,Katowice,PL,Silisian Voiodeship,50.254411,19.061504,4,22,AC_HIGH_(22-49kW),false
+188310,Henryka Mikołaja Góreckiego,Katowice,PL,Silisian Voiodeship,50.265839,19.029147,6,50,DC_FAST_(50-149kW),true
+185538,Tadeusza Kościuszki 169,Katowice,PL,Silisian Voiodeship,50.232217,18.997642,2,22,AC_HIGH_(22-49kW),false
+176321,Klasztor Franciszkanów,Katowice,PL,Silisian Voiodeship,50.226637,18.964111,2,11,AC_L2_(7.5-21kW),false
+176228,Tauron Urząd Miasta,Katowice,PL,Silisian Voiodeship,50.258762,19.02089,2,22,AC_HIGH_(22-49kW),false
+176107,Tauron ZRE,Katowice,PL,Silisian Voiodeship,50.223269,18.99036,2,22,AC_HIGH_(22-49kW),false
+176106,Tauron Brynów Centrum Przesiadkowe,Katowice,PL,Silisian Voiodeship,50.225225,18.995168,1,22,AC_HIGH_(22-49kW),false
+171319,KFC Radom Struga,Radom,PL,Mazowieckie,51.410452,21.177567,1,40,AC_HIGH_(22-49kW),false
+171318,PKN Orlen,Radom,PL,Mazowieckie,51.410384,21.182944,1,50,DC_FAST_(50-149kW),true
+161417,Greenway,Młyny,PL,"",49.97194,23.037098,2,50,DC_FAST_(50-149kW),true
+161416,Greenway,Syców,PL,"",51.303796,17.754888,1,22,AC_HIGH_(22-49kW),false
+161415,Greenway,Słupia pod Bralinem,PL,"",51.297585,17.775869,2,40,AC_HIGH_(22-49kW),false
+161414,Greenway,Charzykowy,PL,"",53.742131,17.512664,1,22,AC_HIGH_(22-49kW),false
+161412,Greenway,Lućmierz,PL,"",51.88733,19.384131,2,90,DC_FAST_(50-149kW),true
+161358,Bus depot,Łomża,PL,Łomża,53.172276,22.05307,2,22,AC_HIGH_(22-49kW),false
+161353,Abies garden center,Rajgród,PL,Grajewo County,53.66982,22.565474,1,30,AC_HIGH_(22-49kW),false
+161103,Orlen Pawliki,Pawliki,PL,"",53.29897,20.437014,3,100,DC_FAST_(50-149kW),true
+160959,Radisson Hotel Szklarska Poreba,Szklarska Poreba,PL,"",50.838199,15.516013,2,11,AC_L2_(7.5-21kW),false
+160899,Lake Hill Resort & Spa,Sosnowka,PL,"",50.83132,15.717869,3,11,AC_L2_(7.5-21kW),false
+157645,PKN Orlen,Gnilec,PL,"",52.32515,14.653679,2,100,DC_FAST_(50-149kW),true
+157644,PKN Orlen,Sosna,PL,"",52.324051,14.65234,2,100,DC_FAST_(50-149kW),true
+157640,PKN Orlen,Gorzów Wielkopolski,PL,"",52.744895,15.157634,2,50,DC_FAST_(50-149kW),true
+157639,PKN Orlen,Sędzinko,PL,"",52.387582,16.476538,2,50,DC_FAST_(50-149kW),true
+157638,PKN Orlen,Zalesie,PL,"",52.386565,16.475127,2,50,DC_FAST_(50-149kW),true
+157637,PKN Orlen,Poznań,PL,"",52.383677,16.943031,2,50,DC_FAST_(50-149kW),true
+157636,PKN Orlen,Tulce,PL,"",52.329228,17.09344,3,100,DC_FAST_(50-149kW),true
+157635,PKN Orlen,Krzyżowniki,PL,"",52.327331,17.092866,3,100,DC_FAST_(50-149kW),true
+157587,PGE Nowa Energia Bolków,Bolków,PL,powiat jaworski,50.919449,16.09933,2,11,AC_L2_(7.5-21kW),false
+157550,PGE Nowa Energia,Lądek-Zdrój,PL,"",50.34261,16.884927,2,11,AC_L2_(7.5-21kW),false
+157546,Energa Stary Browar Kościerzyna,Kościerzyna,PL,"",54.122547,17.976789,1,50,DC_FAST_(50-149kW),true
+157544,PKN Orlen,Gdynia,PL,"",54.550344,18.425583,2,50,DC_FAST_(50-149kW),true
+157543,PKN Orlen,Straszyn,PL,"",54.277307,18.589051,2,50,DC_FAST_(50-149kW),true
+157541,PKN Orlen,Świecie,PL,"",53.41898,18.474921,2,50,DC_FAST_(50-149kW),true
+157539,PKN Orlen,Łódź,PL,"",51.796008,19.509266,2,50,DC_FAST_(50-149kW),true
+157538,PKN Orlen,Łódź,PL,"",51.751788,19.535533,2,50,DC_FAST_(50-149kW),true
+157537,PKN Orlen,Dąbrowa Górnicza,PL,"",50.317169,19.247238,2,100,DC_FAST_(50-149kW),true
+157536,PKN Orlen,Jaworzno,PL,"",50.14796,19.296628,2,100,DC_FAST_(50-149kW),true
+157535,PKN Orlen,Wierzchosławice,PL,"",50.017018,20.862066,2,100,DC_FAST_(50-149kW),true
+157534,PKN Orlen,Kraśnik,PL,"",50.929331,22.249544,2,50,DC_FAST_(50-149kW),true
+157533,PKN Orlen,Rzeszów,PL,"",50.062745,22.011331,2,50,DC_FAST_(50-149kW),true
+157532,PKN Orlen,Rzeszów,PL,"",50.061606,21.942607,2,50,DC_FAST_(50-149kW),true
+155968,Trzebownisko Supercharger,Trzebownisko,PL,"",50.089177,22.04579,4,150,DC_ULTRA_(>=150kW),true
+155382,Hotel Zamek Gniew,Gniew,PL,"",53.833694,18.829028,2,22,AC_HIGH_(22-49kW),false
+149503,Warsaw Supercharger,Warsaw,PL,"",52.207736,21.029349,2,120,DC_FAST_(50-149kW),true
+149369,Orlen charger,Gorzów Wielkopolski,PL,"",52.74521,15.156368,1,50,DC_FAST_(50-149kW),true
+149368,Miejska Ładowarka City Charger,Szczecin,PL,"",53.438052,14.543906,1,50,DC_FAST_(50-149kW),true
+148516,PKN Orlen Zakopane,Zakopane,PL,Małopolska,49.321268,19.985522,2,50,DC_FAST_(50-149kW),true
+134042,"Orlen, Stacja paliw Szybowcowa 27 /Lotnicza/",Wrocław,PL,dolnoślaskie,51.130386,16.966504,3,50,DC_FAST_(50-149kW),true
+133647,Hotel Sjesta,Nowa Sól,PL,Nowa Sól,51.798753,15.70723,1,22,AC_HIGH_(22-49kW),false
+133495,PKN Orlen Lgota,Lgota,PL,"",50.847719,19.045068,2,50,DC_FAST_(50-149kW),true
+132641,PKN Orlen Wrocław Jedności Narodowej,Wrocław,PL,dolnośląskie,51.126639,17.04626,2,50,DC_FAST_(50-149kW),true
+132064,Warsaw Spire - Innogy,Warsaw,PL,"",52.231772,20.984023,1,22,AC_HIGH_(22-49kW),false
+132055,PGE Turów Arena,Zgorzelec,PL,Zgorzelec,51.15842,15.013888,2,22,AC_HIGH_(22-49kW),false
+131449,Hotel Gleboczek Vine Resort & Spa,Brzozie,PL,"",53.317699,19.558323,1,11,AC_L2_(7.5-21kW),false
+131396,Greenway Polska Nowy Targ by Skanska Wrocław,Wrocław,PL,"",51.110311,17.038234,1,50,DC_FAST_(50-149kW),true
+131380,Greenway Polska Lublin Plaza,Lublin,PL,"",51.245581,22.550657,1,50,DC_FAST_(50-149kW),true
+131379,Greenway Auchan Piaseczno,Piaseczno,PL,"",52.096662,21.021319,1,50,DC_FAST_(50-149kW),true
+130895,Greenway Intermarche Grajewo,Grajewo,PL,"",53.632899,22.475266,1,50,DC_FAST_(50-149kW),true
+130894,Greenway Kaufland Nowa Sól,Nowa Sól,PL,"",51.807546,15.695026,1,40,AC_HIGH_(22-49kW),false
+130893,Greenway Orlen Intertank Królów,Trzebiel,PL,"",51.635199,14.860691,1,50,DC_FAST_(50-149kW),true
+130892,Greenway BP Terminal Gorzów Wielkopolski,Gorzów Wielkopolski,PL,"",52.697535,15.232054,1,40,AC_HIGH_(22-49kW),false
+130891,Greenway Manhattan Galeria Gorzów Wielkopolski,Gorzów Wielkopolski,PL,"",52.760501,15.26041,1,50,DC_FAST_(50-149kW),true
+130890,Greenway Port 2000 Torzym,Torzym,PL,"",52.317919,15.084446,1,40,AC_HIGH_(22-49kW),false
+130889,Greenway Intertank Zielona Góra,Zielona Góra,PL,"",51.954583,15.47895,1,40,AC_HIGH_(22-49kW),false
+130887,Greenway Polska Hotel Soray Wieliczka,gmina Wieliczka,PL,gmina Wieliczka,49.994669,20.033031,1,40,AC_HIGH_(22-49kW),false
+130886,Greenway Lotos Konin,Konin,PL,"",52.192148,18.233156,1,40,AC_HIGH_(22-49kW),false
+130868,Greenway Hilton Kalisz,Kalisz,PL,"",51.765687,18.082883,2,22,AC_HIGH_(22-49kW),false
+131372,Greenway Polska Wola Park,Warszawa,PL,Mazowieckie,52.241245,20.929083,1,50,DC_FAST_(50-149kW),true
+155289,Tesla Katowice-E.Leclerc Supercharger,Katowice,PL,Silisian Voiodeship,50.220135,18.990258,4,125,DC_FAST_(50-149kW),true
+149504,Radom Supercharger,Radom,PL,Mazowieckie,51.379531,21.125448,4,120,DC_FAST_(50-149kW),true
+130867,Greenway Galeria Dekada Sieradz,Sieradz,PL,"",51.596986,18.725194,1,40,AC_HIGH_(22-49kW),false
+130866,Greenway Galeria Gryf Szczecin,Szczecin,PL,"",53.385478,14.661889,1,40,AC_HIGH_(22-49kW),false
+130865,Greenway Sukcesja Łódź,Łódź,PL,"",51.749646,19.448906,1,40,AC_HIGH_(22-49kW),false
+130864,Greenway Galeria Metropolia Gdańsk,Gdańsk,PL,"",54.383141,18.605038,3,60,DC_FAST_(50-149kW),true
+130863,Greenway Galeria Karuzela Września,Września,PL,"",52.32368,17.56115,1,50,DC_FAST_(50-149kW),true
+130861,Greenway BP Bukowska Wysogotowo,Wysogotowo,PL,"",52.41312,16.76421,1,50,DC_FAST_(50-149kW),true
+130860,Greenway Galeria A2 Poznań,Poznań,PL,"",52.35352,16.84024,1,150,DC_ULTRA_(>=150kW),true
+130859,Greenway Galeria Handlowa Panorama Poznań,Poznań,PL,"",52.38177,16.89794,1,50,DC_FAST_(50-149kW),true
+130858,Greenway Galeria Malta Poznań,Poznań,PL,"",52.401104,16.957496,1,50,DC_FAST_(50-149kW),true
+130852,Greenway Gospoda Nisko,gmina Nisko,PL,gmina Nisko,50.514333,22.152833,1,40,AC_HIGH_(22-49kW),false
+130764,Greenway Galeria Łomianki,gmina Łomianki,PL,gmina Łomianki,52.323258,20.901442,1,50,DC_FAST_(50-149kW),true
+130755,ZIAD S.A. Hotel Dębowiec,Bielsko-Biała,PL,Bielsko-Biała,49.78376,19.027854,2,43,AC_HIGH_(22-49kW),false
+130754,PowerON Galeria Podolany,Poznań,PL,Poznań,52.448942,16.894296,1,22,AC_HIGH_(22-49kW),false
+130680,Aleja Solidarności,Węgrów,PL,Węgrów,52.387449,22.007129,2,22,AC_HIGH_(22-49kW),false
+130362,Zamek Na Skale,Delnoslaskie,PL,"",50.348314,16.779764,2,11,AC_L2_(7.5-21kW),false
+130319,Greenway Polska BP Sucha Górna,Sucha Górna,PL,gmina Polkowice,51.552459,16.040381,1,40,AC_HIGH_(22-49kW),false
+130318,Greenway Polska Hotel Uroczysko Siedmiu Stawów,powiat dzierżoniowski,PL,powiat dzierżoniowski,50.737798,16.795578,1,22,AC_HIGH_(22-49kW),false
+130317,Greenway Polska Auchan Bielany Wrocławskie,Bielany Wrocławskie,PL,Wrocław,51.053441,16.97132,1,50,DC_FAST_(50-149kW),true
+130316,Greenway Polska Ikea Bielany Wrocławskie,bielany wrocławskie,PL,"",51.048911,16.956823,2,22,AC_HIGH_(22-49kW),false
+130315,Greenway Polska Ikea Bielany Wrocławskie,Bielany Wrocławskie,PL,gmina Kobierzyce,51.041962,16.949287,2,22,AC_HIGH_(22-49kW),false
+130314,Greenway Polska Fashion Outlet Wrocław,Wrocław,PL,"",51.107527,16.945888,1,50,DC_FAST_(50-149kW),true
+130313,Greenway Polska Magnolia Park Wrocław,Wrocław,PL,Wrocław,51.119026,16.990652,1,90,DC_FAST_(50-149kW),true
+130312,Greenway Polska Arena Wrocław,Wrocław,PL,Wrocław,51.095005,17.02836,1,40,AC_HIGH_(22-49kW),false
+130311,Greenway Polska Nissan Impwar Wrocław,wrocław,PL,"",51.154888,17.127914,1,40,AC_HIGH_(22-49kW),false
+130310,Greenway Polska Orlen Węzeł Brzeg Młodoszowice,Młodoszowice gm. Grodków,PL,"",50.78381,17.34768,1,40,AC_HIGH_(22-49kW),false
+130309,Greenway Polska Lotos Posiłek,gmina Krapkowice,PL,gmina Krapkowice,50.523307,17.918153,1,40,AC_HIGH_(22-49kW),false
+130308,Viva,Opole,PL,Opole Voivodeship,50.656272,17.904875,1,50,DC_FAST_(50-149kW),true
+130307,Greenway Polska Stacja Paliw Uniwar Łaziska,Łaziska,PL,"",49.943974,18.429693,1,40,AC_HIGH_(22-49kW),false
+130306,Greenway Polska Auchan Żory,Żory,PL,Żory,50.034327,18.703427,1,50,DC_FAST_(50-149kW),true
+130305,Greenway Polska Auchan Gliwice,Gliwice,PL,"",50.26373,18.658498,1,50,DC_FAST_(50-149kW),true
+130304,Greenway Polska Intermarche Knurów,Knurów,PL,"",50.225374,18.661295,1,40,AC_HIGH_(22-49kW),false
+130303,Greenway Polska Galeria Wnętrz ReFORMA Gliwice,Gliwice,PL,"",50.276572,18.69315,1,40,AC_HIGH_(22-49kW),false
+130302,Greenway Polska Park Handlowy Arena Gliwice,Gliwice,PL,"",50.306717,18.646772,1,50,DC_FAST_(50-149kW),true
+130301,Greenway Polska Gemini park Bielsko-Biała,Bielsko-Biała,PL,"",49.802704,19.050548,3,50,DC_FAST_(50-149kW),true
+130300,Greenway Polska Gemini Park Tychy,Tychy,PL,"",50.096372,19.009888,2,50,DC_FAST_(50-149kW),true
+130299,Greenway Polska Parking & Restauracja Atmosfera Pyrzowice,Pyrzowice,PL,"",50.466576,19.076318,1,22,AC_HIGH_(22-49kW),false
+130298,Greenway Polska Auchan Częstochowa Poczesna,Częstochowa,PL,"",50.731085,19.155613,1,50,DC_FAST_(50-149kW),true
+130297,Greenway Polska Nissan Odyssey Częstochowa,Częstochowa,PL,Częstochowa,50.766583,19.164888,2,22,AC_HIGH_(22-49kW),false
+130296,Greenway Polska Atrium Plejada Bytom,Bytom,PL,Bytom,50.347209,18.85052,1,50,DC_FAST_(50-149kW),true
+130295,Greenway Polska Sosnowiec Plaza,Sosnowiec,PL,Sosnowiec,50.274907,19.126991,1,50,DC_FAST_(50-149kW),true
+130290,"94",Piaski,PL,powiat jarosławski,49.971644,23.036773,1,50,DC_FAST_(50-149kW),true
+130289,Greenway Polska Gospoda Nisko,gmina Nisko,PL,gmina Nisko,50.513982,22.152595,1,40,AC_HIGH_(22-49kW),false
+130288,Greenway Polska Millenium Hall Rzeszów,Rzeszów,PL,Rzeszów,50.027966,22.014216,1,50,DC_FAST_(50-149kW),true
+130287,Greenway Polska Centrum Edukacji Przyrodniczej Tatrzańskiego Parku Narodowego Zakopane,Zakopane,PL,"",49.285758,19.972213,1,50,DC_FAST_(50-149kW),true
+130286,Greenway Polska Gemini Park Tarnów,Tarnów,PL,Tarnów,50.030356,21.001976,1,50,DC_FAST_(50-149kW),true
+130285,Greenway Polska Factory Modlniczka,Modlniczka,PL,gmina Wielka Wieś,50.109573,19.845742,1,40,AC_HIGH_(22-49kW),false
+130283,Greenway Polska Galeria Dekada Kraków,Kraków,PL,"",50.005373,19.948625,1,50,DC_FAST_(50-149kW),true
+130282,Greenway Polska Ikea Kraków,Kraków,PL,Kraków,50.089286,19.898161,2,22,AC_HIGH_(22-49kW),false
+130280,Greenway Polska Galeria Bronowice Kraków,Kraków,PL,Kraków,50.092989,19.897306,1,50,DC_FAST_(50-149kW),true
+130279,Greenway Polska Galeria Krakowska,Kraków,PL,"",50.067586,19.946141,1,22,AC_HIGH_(22-49kW),false
+130278,Greenway Polska Podium Park Kraków,Kraków,PL,Kraków,50.07437,19.998915,1,50,DC_FAST_(50-149kW),true
+130294,Greenway Polska Silesia City Center Katowice,Katowice,PL,Silisian Voiodeship,50.270723,19.003867,1,50,DC_FAST_(50-149kW),true
+130293,Greenway Polska Centrum Handlowe Dąbrówka Katowice,Katowice,PL,Silisian Voiodeship,50.268533,19.061018,1,50,DC_FAST_(50-149kW),true
+130276,Greenway Polska Hotel Kmicic Kraśnik,Kraśnik,PL,"",50.9279,22.250283,1,40,AC_HIGH_(22-49kW),false
+130274,Greenway Polska Atrium Felicity Lublin,Lublin,PL,"",51.231531,22.612402,1,50,DC_FAST_(50-149kW),true
+130271,Greenway Polska Ikea Lublin,Lublin,PL,"",51.28187,22.572758,1,50,DC_FAST_(50-149kW),true
+130270,Greenway Polska Intermarche Grajewo,Grajewo,PL,"",53.63268,22.47581,1,50,DC_FAST_(50-149kW),true
+130269,Greenway Polska Galeria Veneda Łomża,Łomża,PL,"",53.169803,22.076547,1,50,DC_FAST_(50-149kW),true
+130268,Greenway Polska Kaufland Suwałki,Suwałki,PL,Suwałki,54.125444,22.944178,1,40,AC_HIGH_(22-49kW),false
+130267,Greenway Polska Intermarche Ostróda,Ostróda,PL,"",53.689451,19.983479,1,40,AC_HIGH_(22-49kW),false
+130266,Greenway Polska Hotel & Restauracja Olivia Ryki,Ryki,PL,"",51.63894,21.913023,1,40,AC_HIGH_(22-49kW),false
+130265,Greenway Polska Hotel & Restauracja Sulbin Garwolin,Garwolin,PL,"",51.867771,21.644983,1,40,AC_HIGH_(22-49kW),false
+130264,Greenway Polska Stacja Paliw ABC Chromna,Chromna,PL,"",52.108304,22.387064,1,40,AC_HIGH_(22-49kW),false
+130263,Greenway Polska Zajazd Orchidea Ostrów Mazowiecka,Ostrów Mazowiecka,PL,"",52.753749,21.786393,1,40,AC_HIGH_(22-49kW),false
+130262,Greenway Polska Bricomarche Wyszków,wyszków,PL,"",52.603069,21.535905,1,40,AC_HIGH_(22-49kW),false
+130261,Greenway Polska Stacja Paliw Gramax,Mława,PL,Mława,53.118056,20.398833,1,40,AC_HIGH_(22-49kW),false
+130260,Greenway Polska Ptak Warsaw Expo Nadarzyn,Wolica,PL,gmina Nadarzyn,52.107089,20.833192,1,50,DC_FAST_(50-149kW),true
+130259,Greenway Polska Nowa Stacja Pruszków,Pruszków,PL,Pruszków,52.165312,20.792727,1,22,AC_HIGH_(22-49kW),false
+130258,Greenway Polska Galeria Łomianki,Gmina Łomianki,PL,gmina Łomianki,52.32426,20.90105,1,50,DC_FAST_(50-149kW),true
+128427,PKN Orlen,Sucha,PL,gmina Białobrzegi,51.620237,20.974218,2,50,DC_FAST_(50-149kW),true
+128094,Parking miejski - PGE,Rzeszów,PL,podkarpackie,50.026964,22.022105,2,50,DC_FAST_(50-149kW),true
+128093,"PGE Nowa Energia, 8 Marca",Rzeszów,PL,podkarpackie,50.038332,22.012319,2,50,DC_FAST_(50-149kW),true
+128092,Rzeszów PGE,Rzeszów,PL,podkarpackie,50.038171,21.993901,2,50,DC_FAST_(50-149kW),true
+127871,Hotel Medical Spa Unitral,"",PL,"",54.260324,16.05716,1,11,AC_L2_(7.5-21kW),false
+127720,Greenway Polska Malinowy Bzyk Dalanówek,Dalanówek,PL,mazowieckie,52.589006,20.452655,2,40,AC_HIGH_(22-49kW),false
+127212,MAKRO Gdańsk - RAWICOM,Wiślina,PL,pomorskie,54.337397,18.735277,2,50,DC_FAST_(50-149kW),true
+127188,Greenway - Restauracja Stare Jabłonki,Pikutkowo,PL,kujawsko-pomorskie,52.625285,18.969342,1,140,DC_FAST_(50-149kW),true
+127186,Greenway Hotel 500,Stryków,PL,łódzkie,51.892511,19.593581,2,50,DC_FAST_(50-149kW),true
+126917,PKN Orlen ul. Św. Barbary,Częstochowa,PL,śląskie,50.802769,19.087621,2,50,DC_FAST_(50-149kW),true
+126916,PKN Orlen ul. Warszawska,Częstochowa,PL,śląskie,50.835088,19.153785,2,50,DC_FAST_(50-149kW),true
+125914,Tatra Green House,Zakopane,PL,Zakopane,49.287141,19.982867,1,4,AC_L1_(<7.5kW),false
+125906,Miejska i Powiatowa Biblioteka Publiczna PGE,Bełchatów,PL,łódzkie,51.366031,19.368168,2,50,DC_FAST_(50-149kW),true
+125659,KFC MOP Olsze Południe,Olsze,PL,"",53.888358,18.629605,2,50,DC_FAST_(50-149kW),true
+125657,KFC MOP Olsze Północ,Olsze,PL,"",53.887858,18.632726,2,50,DC_FAST_(50-149kW),true
+125656,BP - Port Kopytkowo,Smętowo Graniczne,PL,Mazowieckie,53.740809,18.638981,2,75,DC_FAST_(50-149kW),true
+125490,Hotel Lidia Spa & Wellness,Darlowo,PL,"",54.437617,16.376414,1,22,AC_HIGH_(22-49kW),false
+125489,Green Mountain 5* Hotel and Apartment,Karpacz,PL,"",50.7639,15.764443,1,22,AC_HIGH_(22-49kW),false
+118596,Serwis Samochodów Elektrycznych Electro AutoBodo,Łódź,PL,"",51.750608,19.535068,1,9,AC_L2_(7.5-21kW),false
+118595,Manufaktura,Łódź,PL,Lodzkie,51.779826,19.445019,2,3,AC_L1_(<7.5kW),false
+118580,Greenway BRW Grudziądz,Grudziądz,PL,"",53.447598,18.727216,2,50,DC_FAST_(50-149kW),true
+118304,Zajazd Zacisze,Rymanow Zdroj,PL,"",49.554229,21.850182,1,22,AC_HIGH_(22-49kW),false
+114651,Almond Gdansk Hotel & Spa,Gdansk,PL,"",54.343802,18.65007,2,22,AC_HIGH_(22-49kW),false
+114478,Politechnika Częstochowska,Częstochowa,PL,śląskie,50.82075,19.117082,6,22,AC_HIGH_(22-49kW),false
+114469,Dworzec PKP Częstochowa,Częstochowa,PL,śląskie,50.808282,19.120262,2,22,AC_HIGH_(22-49kW),false
+114121,Vienna House Amber Baltic,Miedzyzdroje,PL,"",53.933668,14.451784,2,22,AC_HIGH_(22-49kW),false
+113969,Krakow Valley Golf Village,Paczoltowice,PL,"",50.185054,19.652667,1,11,AC_L2_(7.5-21kW),false
+113919,Inx Design Hotel,Krakow,PL,"",50.051056,19.95106,1,22,AC_HIGH_(22-49kW),false
+113870,Metropolis Design Hotel,"31-106",PL,Krakow,50.05734,19.927252,1,22,AC_HIGH_(22-49kW),false
+113830,Hotel St. Bruno,Gizycko,PL,"",54.035583,21.760281,1,11,AC_L2_(7.5-21kW),false
+113731,Hotel Szczawnica Park Resort Spa****,Szczawnica,PL,"",49.426031,20.475977,1,22,AC_HIGH_(22-49kW),false
+113493,Greenway PORT RADOMSKO,Radomsko,PL,łódzkie,51.084,19.379176,2,50,DC_FAST_(50-149kW),true
+113459,"Lotos MOP 817, Krzyżanów Wschód/East","",PL,łódzkie,52.182325,19.487707,2,43,AC_HIGH_(22-49kW),false
+113458,"Lotos MOP 819, Krzyżanów Zachód",Krzyżanówek,PL,łódzkie,52.18619,19.486322,2,43,AC_HIGH_(22-49kW),false
+113842,Vienna House Easy Katowice,Katowice,PL,Silisian Voiodeship,50.26365,19.016287,1,22,AC_HIGH_(22-49kW),false
+113456,GreenWay Stacja Paliw Bliska Łyszkowice,Łyszkowice,PL,łódzkie,51.985525,19.910499,2,43,AC_HIGH_(22-49kW),false
+113454,Orlen Siewierz,Siewierz,PL,śląskie,50.465933,19.229803,2,50,DC_FAST_(50-149kW),true
+112810,GreenWay - Pomorski Park Naukowo-Technologiczny,Gdynia,PL,Pomorskie,54.495446,18.537121,2,22,AC_HIGH_(22-49kW),false
+112526,Siedziba Orlen Płock,Płock,PL,mazowieckie,52.586487,19.650319,2,50,DC_FAST_(50-149kW),true
+112468,Parkuj i jedź P&R Grodzisk Mazowiecki,Grodzisk Mazowiecki,PL,mazowieckie,52.112961,20.623582,4,50,DC_FAST_(50-149kW),true
+109151,Ilonn Boutique,Poznan,PL,"",52.397273,16.897631,2,22,AC_HIGH_(22-49kW),false
+109018,Aura Centrum Olsztyna,Olsztyn,PL,"",53.777127,20.482815,2,17,AC_L2_(7.5-21kW),false
+108758,Witek Hotel & Conference Centre,Modlniczka,PL,"",50.10544,19.843967,2,11,AC_L2_(7.5-21kW),false
+108749,Ilonn Hotel,Poznan,PL,"",52.458816,16.881011,1,22,AC_HIGH_(22-49kW),false
+106200,Tadeusza Kościuszki,Henkenhagen,PL,Kreis Kolberg,54.21808,15.761957,1,11,AC_L2_(7.5-21kW),false
+106198,Osada Sniezka,Lomnica,PL,"",50.857819,15.783663,2,22,AC_HIGH_(22-49kW),false
+105560,Willa Poprad,Rytro,PL,"",49.490912,20.682234,2,17,AC_L2_(7.5-21kW),false
+105382,Hotel Kazimierzowka,Kazimierz Dolny,PL,"",51.323349,21.95577,1,22,AC_HIGH_(22-49kW),false
+104472,Cristal Resort By Zdrojowa,Szklarska Poreba,PL,"",50.823268,15.540258,1,22,AC_HIGH_(22-49kW),false
+104387,Blue Mountain Resort,Szklarska Poreba,PL,"",50.825401,15.539113,2,22,AC_HIGH_(22-49kW),false
+103660,Chocholowskie Termy,Chocholow,PL,"",49.35179,19.820924,1,22,AC_HIGH_(22-49kW),false
+103651,Hotel Spa DR Irena Eris Polanica Zdroj,Polanica-Zdroj,PL,"",50.411427,16.503206,2,22,AC_HIGH_(22-49kW),false
+103585,Hotel Spa DR Irena Eris Wzgorza Dylewskie,Ostroda,PL,"",53.544148,19.942262,2,22,AC_HIGH_(22-49kW),false
+103557,Hotel & Spa Czarny Gron,Rzyki,PL,"",49.79368,19.388101,1,22,AC_HIGH_(22-49kW),false
+103527,Hotel Spa DR Irena Eris Krynica Zdroj,Krynica-Zdroj,PL,"",49.421528,20.926765,2,11,AC_L2_(7.5-21kW),false
+101113,Vienna House Andel's Cracow,Krakow,PL,"",50.065629,19.945439,2,22,AC_HIGH_(22-49kW),false
+100782,Heron Live Hotel,Grodek nad Dunajcem,PL,"",49.720312,20.699074,1,22,AC_HIGH_(22-49kW),false
+100591,Ciechocinek Supercharger,Ciechocinek,PL,"",52.875155,18.774871,4,150,DC_ULTRA_(>=150kW),true
+99858,Hotel Desilva Premium Opole,Opole,PL,"",50.663824,17.923646,2,22,AC_HIGH_(22-49kW),false
+99652,Parking 24h Centrum,Szczecin,PL,"",53.433199,14.557713,1,14,AC_L2_(7.5-21kW),false
+99627,Hilton Gdansk Hotel,Gdansk,PL,"",54.353566,18.658353,1,22,AC_HIGH_(22-49kW),false
+98108,Gosciniec Inn,Uniejów,PL,"",51.949971,18.806795,2,14,AC_L2_(7.5-21kW),false
+97976,Radisson Blu Resort,Swinoujscie,PL,"",53.920316,14.259259,2,22,AC_HIGH_(22-49kW),false
+97806,Hotel Prezydent Medical Spa & Wellness,Krynica-Zdroj,PL,"",49.419853,20.95969,1,22,AC_HIGH_(22-49kW),false
+97621,Palac Wiechlice,Szprotawa,PL,"",51.568061,15.592819,1,22,AC_HIGH_(22-49kW),false
+97530,Hotel Mercure Opole,Opole,PL,"",50.66349,17.926058,2,22,AC_HIGH_(22-49kW),false
+97521,Art Hotel,Wroclaw,PL,"",51.112253,17.029982,1,22,AC_HIGH_(22-49kW),false
+97485,Radisson Blu Centrum Hotel Warsaw,Warsaw,PL,"",52.236653,20.99871,1,22,AC_HIGH_(22-49kW),false
+96815,Greenway Gdańsk Galeria Przymorze,Gdańsk,PL,pomorskie,54.409512,18.593671,2,50,DC_FAST_(50-149kW),true
+96814,Gdańsk Park Handlowy Matarnia,Gdańsk,PL,pomorskie,54.372712,18.51944,2,50,DC_FAST_(50-149kW),true
+96449,Stacja Ładowania Focus Mall,Bydgoszcz,PL,Kujawsko-Pomorskie,53.125864,18.018377,1,50,DC_FAST_(50-149kW),true
+95923,Induce One Headquarters,Białystok,PL,Białystok,53.117196,23.087015,1,22,AC_HIGH_(22-49kW),false
+93803,The Westin Warsaw Hotel Parking,Warsaw,PL,Warszawa,52.235231,20.996238,2,20,AC_L2_(7.5-21kW),false
+92312,Hotel Mazurek,"",PL,"",52.197275,18.642222,2,22,AC_HIGH_(22-49kW),false
+92298,Sheraton Grand Krakow,"",PL,"",50.056425,19.930354,1,11,AC_L2_(7.5-21kW),false
+91992,Zimowy Domek - Boutique Rooms,Swieradow Zdroj,PL,Dolnośląskie,50.911891,15.346003,3,11,AC_L2_(7.5-21kW),false
+91214,Modry Las Golf Resort,Choszczno,PL,"",53.135152,15.475381,2,11,AC_L2_(7.5-21kW),false
+90168,Wyższa Szkoła Techniczna Katowice,Katovice,PL,Katovice,50.231394,18.986206,1,,UNKNOWN,false
+89964,Galeria Kazimierz,Krakow,PL,"",50.054328,19.953931,2,,UNKNOWN,false
+89863,Stacja Orlen w Kartuzach,gmina Kartuzy,PL,pomorskie,54.330112,18.205775,1,3,AC_L1_(<7.5kW),false
+88989,Centrum Opoka,Stary Sącz,PL,"",49.559264,20.647363,1,22,AC_HIGH_(22-49kW),false
+88298,EV Plus,Poznań,PL,Wielkopolska,52.35138,17.002803,1,22,AC_HIGH_(22-49kW),false
+88297,Hotel HP Park Poznań,Poznań,PL,Wielkopolska,52.400022,16.971969,2,22,AC_HIGH_(22-49kW),false
+87966,Biedronka Nowowiejska,Wrocław,PL,"",51.123223,17.051446,3,22,AC_HIGH_(22-49kW),false
+87870,Gdańsk Nissan Zdunek KMJ,Gdańsk,PL,pomorskie,54.39289,18.583542,1,44,AC_HIGH_(22-49kW),false
+87183,Sheraton Poznan Hotel,Poznan,PL,"",52.406739,16.910677,1,22,AC_HIGH_(22-49kW),false
+86153,Hala Targowa Tęcza,Wrocław,PL,Dolnośląskie,51.130168,16.965192,3,2,AC_L1_(<7.5kW),false
+86039,Gorzów Wielkopolski ul. Bora-Komorowskiego,Gorzów Wielkopolski,PL,"",52.763022,15.271122,1,22,AC_HIGH_(22-49kW),false
+85744,Holiday Inn Warszawa Jozefow,Jozefow,PL,"",52.12312,21.234339,2,22,AC_HIGH_(22-49kW),false
+85708,Olandia Prusim,Prusim,PL,gmina Kwilcz,52.577026,16.004806,1,11,AC_L2_(7.5-21kW),false
+85474,Park Hotel,Szczecin,PL,"",53.431827,14.559712,2,22,AC_HIGH_(22-49kW),false
+98054,Marine Hotel & Ultra Marine,Kolobrzeg,PL,Zachodniopomorskie,54.189518,15.604182,2,11,AC_L2_(7.5-21kW),false
+97739,Diune Hotel & Resort,Kolobrzeg,PL,Zachodniopomorskie,54.188352,15.598879,2,11,AC_L2_(7.5-21kW),false
+97536,Sand Hotel,Kolobrzeg,PL,Zachodniopomorskie,54.183342,15.568349,2,17,AC_L2_(7.5-21kW),false
+84697,Gdańsk Auchan przy Szczęśliwej,Gdańsk,PL,pomorskie,54.350661,18.524471,2,22,AC_HIGH_(22-49kW),false
+82444,Prywatne gniazdko w Gdańsku na Konwalii,Gdańsk,PL,pomorskie,54.391425,18.632169,1,3,AC_L1_(<7.5kW),false
+79382,Parking przy biurowcu Kosmos w Szczecinie,Szczecin,PL,zachodniopomorskie,53.426748,14.544917,4,22,AC_HIGH_(22-49kW),false
+79379,Leroy Merlin Szczecin,Szczecin,PL,zachodniopomorskie,53.456603,14.571136,4,22,AC_HIGH_(22-49kW),false
+79256,Stacja Lotos w Karlinie,Karlino,PL,zachodniopomorskie,54.044466,15.886448,1,3,AC_L1_(<7.5kW),false
+79255,Bistro Jajo Białogard,Białogard,PL,zachodniopomorskie,54.009239,15.970775,3,11,AC_L2_(7.5-21kW),false
+77782,Hotel Senator w Dźwirzynie,Dźwirzyno,PL,powiat kołobrzeski,54.163237,15.439653,10,22,AC_HIGH_(22-49kW),false
+75158,Hotel Gołębiewski w Wiśle,Wisła,PL,"",49.660767,18.858933,1,3,AC_L1_(<7.5kW),false
+75127,ElecTech - Electronic Technology,Zielona Góra,PL,"",51.928626,15.497817,1,22,AC_HIGH_(22-49kW),false
+75126,VW Autohaus,Poznaň,PL,"",52.360235,16.849507,1,,UNKNOWN,false
+75125,CMP Holding,Wrocław,PL,"",51.064421,16.999851,1,22,AC_HIGH_(22-49kW),false
+75124,Centrum Handlowe MARINO,Wrocław,PL,"",51.151318,17.027408,1,22,AC_HIGH_(22-49kW),false
+75123,Hotel Scandic,Wrocław,PL,"",51.10151,17.028156,1,22,AC_HIGH_(22-49kW),false
+75122,Salon Samochodowy SEAT,Wrocław,PL,"",51.11709,17.02091,1,22,AC_HIGH_(22-49kW),false
+75120,Hotel Tumski,Wrocław,PL,Dolnoslezské vojvodství,51.11636,17.04072,1,22,AC_HIGH_(22-49kW),false
+75119,GOVECS,Wrocław,PL,Wrocław,51.104915,16.929485,1,22,AC_HIGH_(22-49kW),false
+75118,Centrum Handlowe Korona,Vratislav,PL,Wrocław,51.142243,17.090604,1,22,AC_HIGH_(22-49kW),false
+75117,Wroclawski Park Technologiczny,Wrocław,PL,Wrocław,51.106718,16.971714,1,22,AC_HIGH_(22-49kW),false
+75116,Centrum Logistyczne Parku Naukowo-Technologicznego,Zielona Góra,PL,Zielona Góra,51.925839,15.616948,5,150,DC_ULTRA_(>=150kW),true
+75103,Promenady ZITA,Wrocław,PL,Wrocław,51.128963,17.044878,1,22,AC_HIGH_(22-49kW),false
+75083,Sky Tower - Wroclaw,Wrocław,PL,"",51.094527,17.020589,1,11,AC_L2_(7.5-21kW),false
+75077,Salon IKEA Galactico,Bielany Wrocławskie,PL,powiat wrocławski,51.047111,16.955648,1,22,AC_HIGH_(22-49kW),false
+75076,Tarasy Zamkowe,Lublin,PL,Lublin,51.2505,22.57559,1,,UNKNOWN,false
+75074,Akademia Górniczo - Hutnicza,Krakov,PL,Kraków,50.065608,19.917154,1,11,AC_L2_(7.5-21kW),false
+75073,Korporacyjne Centrum Badawcze ABB,Krakov,PL,Kraków,50.058212,19.94338,1,50,DC_FAST_(50-149kW),true
+75072,Centrum Podkarpacki Park Naukowo-Technologiczny AEROPOLIS,Jasionka,PL,gmina Trzebownisko,50.116343,22.017477,1,22,AC_HIGH_(22-49kW),false
+74977,IKEA Bydgoszcz,Bydgoszcz,PL,kujawsko-pomorskie,53.132003,18.12033,4,11,AC_L2_(7.5-21kW),false
+74318,Fideltronik Kraków,Krakov,PL,Kraków,50.064115,19.968898,1,22,AC_HIGH_(22-49kW),false
+74317,Fideltronik,Sucha Beskidzka,PL,Sucha Beskidzka,49.743734,19.596012,1,22,AC_HIGH_(22-49kW),false
+73329,Stacja BP w Elblągu,"82-300 Elbląg",PL,warmińsko-mazurskie,54.173002,19.405549,4,3,AC_L1_(<7.5kW),false
+73328,Hotel Krasicki w Lidzbarku Warmińskim,Lidzbark Warmiński,PL,warmińsko-mazurskie,54.124817,20.583604,4,22,AC_HIGH_(22-49kW),false
+73324,Smażalnia Okoń niedaleko Elbląga,Rzeczna,PL,gmina Pasłęk,54.086209,19.607981,4,3,AC_L1_(<7.5kW),false
+73146,Salon Volkswagen,Gdańsk,PL,pomorskie,54.330976,18.535212,2,3,AC_L1_(<7.5kW),false
+72593,Parking lotniskowy w Gdańsku,Gdańsk,PL,pomorskie,54.379306,18.483412,3,11,AC_L2_(7.5-21kW),false
+72538,LIDL Poznań,Poznaň,PL,Poznań,52.416166,16.89048,1,50,DC_FAST_(50-149kW),true
+71800,Informacja turystyczna w Kuźnicy,Kuźnica,PL,pomorskie,54.731594,18.587882,10,3,AC_L1_(<7.5kW),false
+71731,Hotel Ambasada Restaurant Piwnica Paryska,Boleslawiec,PL,Dolnoslaskie,51.259229,15.564534,2,3,AC_L1_(<7.5kW),false
+71102,Kemping Małe Morze,gmina Władysławowo,PL,pomorskie,54.782287,18.442854,10,3,AC_L1_(<7.5kW),false
+66050,Stacja Lotos w Kikole,Kikół,PL,gmina Kikół,52.903244,19.121867,1,3,AC_L1_(<7.5kW),false
+66049,Stacja Orlen w Głodowie,Głodowo,PL,gmina Lipno,52.828661,19.238481,1,3,AC_L1_(<7.5kW),false
+66030,Stacja paliw w Kamieniu Kotowym,Kamień Kotowy,PL,gmina Tłuchowo,52.735984,19.432802,1,22,AC_HIGH_(22-49kW),false
+66029,Dawny warsztat wulkanizacyjny w Wężykach,Wężyki,PL,gmina Rybno,52.281002,20.122119,2,22,AC_HIGH_(22-49kW),false
+66028,Leroy Merlin Płock,Płock,PL,Płock,52.537141,19.739448,2,22,AC_HIGH_(22-49kW),false
+66004,"Stacja BP na A1 (Lubień - północ, kier. Gdańsk)",gmina Lubień Kujawski,PL,gmina Lubień Kujawski,52.465703,19.193083,6,3,AC_L1_(<7.5kW),false
+65990,Stacja paliw w Wojszycach,Otłoczyn,PL,gmina Aleksandrów Kujawski,52.211255,19.544392,1,22,AC_HIGH_(22-49kW),false
+65989,"Stacja Orlen na A1 (Otłoczyn - wschód, kier. Gdańsk)",Otłoczyn,PL,gmina Aleksandrów Kujawski,52.899838,18.724272,2,100,DC_FAST_(50-149kW),true
+65988,"Stacja Lotos na A1 (Malankowo - wschód, kier. Gdańsk)",Działowo,PL,pomorskie,53.346297,18.709671,2,22,AC_HIGH_(22-49kW),false
+65987,"Stacja Lotos na A1 (Malankowo - zachód, kier. Łódź)",Działowo,PL,pomorskie,53.341831,18.70781,2,22,AC_HIGH_(22-49kW),false
+65867,Laboratorium LINTE^2,Gdańsk,PL,pomorskie,54.369203,18.613693,3,70,DC_FAST_(50-149kW),true
+65160,"Stacja Shell na A1 (Olsze - wschód, kier. Gdańsk)",Olsze,PL,pomorskie,53.88681,18.631314,3,3,AC_L1_(<7.5kW),false
+65159,"Stacja Shell na A1 (Olsze - zachód, kier. Łódź)",Olsze,PL,pomorskie,53.888623,18.629887,2,22,AC_HIGH_(22-49kW),false
+65135,Parking przed basenem pływackim Akademii Morskiej,Gdynia,PL,pomorskie,54.518533,18.554772,3,3,AC_L1_(<7.5kW),false
+65117,Vtechtuning.eu parking,Kraków,PL,"",50.025364,19.992509,1,22,AC_HIGH_(22-49kW),false
+65087,Parking przy Parku Trampolin JUMPCITY,Gdynia,PL,pomorskie,54.525062,18.53836,9,22,AC_HIGH_(22-49kW),false
+64539,Salon Porsche,Sopot,PL,pomorskie,54.459937,18.553575,2,3,AC_L1_(<7.5kW),false
+64511,Parking przy ul. Gospody,Gdańsk,PL,pomorskie,54.416382,18.587515,3,,UNKNOWN,false
+64468,ENSTO Straszyn,Straszyn,PL,pomorskie,54.276657,18.589629,2,11,AC_L2_(7.5-21kW),false
+61429,Centrum Handlowe Jantar w Słupsku,Słupsk,PL,pomorskie,54.455533,16.989753,1,3,AC_L1_(<7.5kW),false
+61428,Unitral Mielno,Mielno,PL,pomorskie,54.260543,16.05687,10,22,AC_HIGH_(22-49kW),false
+60379,Tesla Poznań Superchanger,Poznań,PL,Greater Poland Voivodeship,52.399723,16.894948,6,150,DC_ULTRA_(>=150kW),true
+57976,Stacja paliw Lotos - Gdynia,Gdynia,PL,pomorskie,54.496767,18.539603,1,44,AC_HIGH_(22-49kW),false
+57916,Tesla Kostomloty Supercharger,Kostomłoty,PL,"",51.036968,16.584617,4,150,DC_ULTRA_(>=150kW),true
+57616,Centrum Riviera - południe,Gdynia,PL,pomorskie,54.502396,18.532549,12,3,AC_L1_(<7.5kW),false
+57615,Centrum Riviera - północ,Gdynia,PL,pomorskie,54.506507,18.533193,12,22,AC_HIGH_(22-49kW),false
+56343,NISSAN Sosnowiec,Sosnowiec,PL,"",50.296357,19.116463,1,44,AC_HIGH_(22-49kW),false
+56342,NISSAN Jasnogórska,Kraków,PL,Malopolskie,50.09898,19.890993,1,44,AC_HIGH_(22-49kW),false
+54560,Alchemia - zespół budynków biurowych,Gdańsk,PL,pomorskie,54.398992,18.576757,12,11,AC_L2_(7.5-21kW),false
+54559,Parking przy ul. Przemyskiej,Gdańsk,PL,pomorskie,54.3278,18.593647,5,3,AC_L1_(<7.5kW),false
+54534,Straż Miejska / salon Citroena,Gdańsk,PL,pomorskie,54.34849,18.671097,2,22,AC_HIGH_(22-49kW),false
+54338,Stacja paliw Lotos - Gdańsk,Gdańsk,PL,pomorskie,54.371199,18.627395,1,44,AC_HIGH_(22-49kW),false
+54337,Olivia Business Centre,Gdańsk,PL,pomorskie,54.402312,18.570928,3,50,DC_FAST_(50-149kW),true
+54325,Parking przy ul. Trubadurów,Gdansk,PL,pomorskie,54.373409,18.625797,1,,UNKNOWN,false
+54206,Miejski Ogród Zoologiczny,Gdańsk,PL,pomorskie,54.414228,18.535756,2,22,AC_HIGH_(22-49kW),false
+54205,"Zarząd Dróg i Zieleni w Gdańsku, Partyzantów 36",Gdańsk,PL,pomorskie,54.378369,18.600845,2,22,AC_HIGH_(22-49kW),false
+52224,Urząd Miasta Gdańsk,Gdańsk,PL,pomorskie,54.351534,18.640845,2,22,AC_HIGH_(22-49kW),false
+52029,Urząd Miasta Sopot,Sopot,PL,pomorskie,54.439744,18.564579,2,22,AC_HIGH_(22-49kW),false
+52028,CH Ogrody,Elbląg,PL,pomorskie,54.185642,19.406807,2,22,AC_HIGH_(22-49kW),false
+52027,IKEA Poznań,Poznań,PL,Velkopolské vojvodství,52.382507,16.988018,2,22,AC_HIGH_(22-49kW),false
+51284,Wrocławska 19,Długołęka,PL,"",51.177872,17.189516,1,11,AC_L2_(7.5-21kW),false
+60378,Tesla Katowice Superchanger,Katowice,PL,Silisian Voiodeship,50.254584,19.046627,4,150,DC_ULTRA_(>=150kW),true
+194179,Kraków Supercharger,Kraków,PL,Lesser Poland Voivodeship,50.02757,19.952449,4,133,DC_FAST_(50-149kW),true
+188999,"4 Bratysławska",Kraków,PL,Lesser Poland Voivodeship,50.0847,19.935656,1,50,DC_FAST_(50-149kW),true
+175715,Hotel Vinci,Kraków,PL,małopolskie,50.108508,19.837949,1,40,AC_HIGH_(22-49kW),false
+175698,Praska Park,Kraków,PL,małopolskie,50.047565,19.914259,3,40,AC_HIGH_(22-49kW),false
+175697,Park Handlowy Zakopianka,Kraków,PL,Lesser Poland Voivodeship,50.014336,19.931378,2,40,AC_HIGH_(22-49kW),false
+175696,M1 - GO+EAuto,Kraków,PL,małopolskie,50.064782,20.000024,1,40,AC_HIGH_(22-49kW),false
+175521,Centralna - ZDMK,Kraków,PL,Lesser Poland Voivodeship,50.063707,20.007851,1,40,AC_HIGH_(22-49kW),false
+175520,IBIS Hotel,Kraków,PL,malopolskie,50.081651,20.047965,1,40,AC_HIGH_(22-49kW),false
+175514,Novotel Kraków,Kraków,PL,Lesser Poland Voivodeship,50.07053,19.896797,1,40,AC_HIGH_(22-49kW),false
+161310,PKN Orlen,Kraków,PL,"",50.074969,19.91021,2,50,DC_FAST_(50-149kW),true
+161309,PKN Orlen,Kraków,PL,"",50.071198,19.893461,2,50,DC_FAST_(50-149kW),true
+127826,Tesla Destination Charger,Dźwirzyno,PL,"",54.162913,15.438795,1,22,AC_HIGH_(22-49kW),false
+256008,Ekoen Warszawa P14,Warszawa,PL,Mazowieckie,52.177988,20.997359,6,350,DC_ULTRA_(>=150kW),true
+193148,Sheraton Grand Warsaw,Warszawa,PL,Mazowieckie,52.228206,21.025678,2,11,AC_L2_(7.5-21kW),false
+130765,Greenway Atrium Promenada,Warszawa,PL,Mazowieckie,52.2312,21.105718,1,50,DC_FAST_(50-149kW),true
+130759,Greenway Atrium Reduta Warszawa,Warszawa,PL,Mazowieckie,52.213096,20.951989,1,50,DC_FAST_(50-149kW),true
+85458,Apartamenty Cosmopolitan,Warszawa,PL,Mazowieckie,52.235546,21.001557,2,22,AC_HIGH_(22-49kW),false
+130257,Greenway Polska Atrium Promenada,Warszawa,PL,Mazowieckie,52.231556,21.105694,2,50,DC_FAST_(50-149kW),true
+130256,Greenway Polska Auchan Modlińska,Warszawa,PL,Mazowieckie,52.2947,21.000013,1,50,DC_FAST_(50-149kW),true
+130255,Greenway Polska Sadyba Best Mall,Warszawa,PL,Mazowieckie,52.187917,21.060267,1,50,DC_FAST_(50-149kW),true
+130254,Greenway Polska Hotel Sheraton,Warszawa,PL,Mazowieckie,52.185943,20.989581,1,22,AC_HIGH_(22-49kW),false
+130253,Greenway Polska Atrium Reduta,Warszawa,PL,Mazowieckie,52.212922,20.951721,1,50,DC_FAST_(50-149kW),true
+130251,Greenway Polska Galeria Młociny,Warszawa,PL,Mazowieckie,52.290411,20.927477,9,22,AC_HIGH_(22-49kW),false
+130249,Greenway Polska Atrium Targówek,Warszawa,PL,Mazowieckie,52.303694,21.058305,1,50,DC_FAST_(50-149kW),true
+127867,The Westin Warsaw,Warszawa,PL,Mazowieckie,52.235436,20.996647,2,22,AC_HIGH_(22-49kW),false
+95240,Galeria Polnocna,Warszawa,PL,Mazowieckie,52.318517,20.967035,3,22,AC_HIGH_(22-49kW),false
+88658,Lidl Warszawa,Warszawa,PL,Mazowieckie,52.303849,20.987065,3,50,DC_FAST_(50-149kW),true
+88657,Lidl Warszawa,Warszawa,PL,Mazowieckie,52.106401,21.016153,3,50,DC_FAST_(50-149kW),true
+87389,H15 Boutique Hotel,Warszawa,PL,Mazowieckie,52.225119,21.011656,1,22,AC_HIGH_(22-49kW),false
+75152,Greenway Polska Galeria Mokotów,Warszawa,PL,Mazowieckie,52.179697,21.004457,1,44,AC_HIGH_(22-49kW),false
+75065,CH Arkadia,Warszawa,PL,Mazowieckie,52.257373,20.984583,1,3,AC_L1_(<7.5kW),false
+64783,BMW Group,Warszawa,PL,Mazowieckie,52.185326,21.002861,1,50,DC_FAST_(50-149kW),true
+57210,Grupa PKP Energetyka,Warszawa,PL,Mazowieckie,52.224686,21.007387,2,22,AC_HIGH_(22-49kW),false
+51350,Lewinowska 37A,Warszawa,PL,Mazowieckie,52.28545,21.082,1,11,AC_L2_(7.5-21kW),false
+51349,Nieświeska 52,Warszawa,PL,Mazowieckie,52.265703,21.082421,1,11,AC_L2_(7.5-21kW),false
+51348,Plac Teatralny,Warszawa,PL,Mazowieckie,52.244215,21.010513,1,11,AC_L2_(7.5-21kW),false
+51347,Centrum Nauki Kopernik - Wybrzeże Kościuszkowskie 20,Warszawa,PL,Mazowieckie,52.241688,21.027836,1,22,AC_HIGH_(22-49kW),false
+51346,Budynek RWE - Wybrzeże Kościuszkowskie 41,Warszawa,PL,Mazowieckie,52.239246,21.030837,4,22,AC_HIGH_(22-49kW),false
+51344,Emilii Plater,Warszawa,PL,Mazowieckie,52.231945,21.003838,1,11,AC_L2_(7.5-21kW),false
+51343,Plac Defilad 1,Warszawa,PL,Mazowieckie,52.230524,21.007401,1,11,AC_L2_(7.5-21kW),false
+51342,Piękna 44,Warszawa,PL,Mazowieckie,52.223168,21.013634,1,11,AC_L2_(7.5-21kW),false
+51341,Stanisława Rychlińskiego 2,Warszawa,PL,Mazowieckie,52.21295,21.009507,1,,UNKNOWN,false
+51339,Włodarzewska 68,Warszawa,PL,Mazowieckie,52.202741,20.950996,1,11,AC_L2_(7.5-21kW),false
+51338,Pory 80,Warszawa,PL,Mazowieckie,52.190474,21.044785,1,11,AC_L2_(7.5-21kW),false
+51337,Konstruktorska 5,Warszawa,PL,Mazowieckie,52.185277,20.997775,1,11,AC_L2_(7.5-21kW),false
+51335,Marynarska 13,Warszawa,PL,Mazowieckie,52.17803,21.00058,1,11,AC_L2_(7.5-21kW),false
+51334,Rotmistrza Witolda Pileckiego,Warszawa,PL,Mazowieckie,52.142925,21.038556,1,11,AC_L2_(7.5-21kW),false
+9494,RWE,Warszawa,PL,Mazowieckie,52.202539,20.950606,1,,UNKNOWN,false
+176017,Tauron Panewnicka,Katowice,PL,Silisian Voiodeship,50.226283,18.973833,2,22,AC_HIGH_(22-49kW),false
+175600,Dworzec PKP Katowice,Katowice,PL,Silisian Voiodeship,50.256728,19.016379,2,22,AC_HIGH_(22-49kW),false
+175599,Dworzec PKP Katowice Ligota,Katowice,PL,Silisian Voiodeship,50.226345,18.977354,2,22,AC_HIGH_(22-49kW),false
+175597,Tauron Lasy Państwowe Św. Huberta,Katowice,PL,Silisian Voiodeship,50.227201,19.000419,2,22,AC_HIGH_(22-49kW),false
+175531,GreenWay Galeria Katowicka,Katowice,PL,Silisian Voiodeship,50.258143,19.016682,3,40,AC_HIGH_(22-49kW),false
+175519,BMW Sikora Libero,Katowice,PL,Silisian Voiodeship,50.223439,18.986112,2,22,AC_HIGH_(22-49kW),false
+161553,PKN Orlen,Katowice,PL,Silisian Voiodeship,50.262362,19.043633,2,100,DC_FAST_(50-149kW),true
+161552,PKN Orlen,Katowice,PL,Silisian Voiodeship,50.230543,18.972365,2,100,DC_FAST_(50-149kW),true
+130899,Greenway Ikea Katowice,Katowice,PL,Silisian Voiodeship,50.270568,19.058464,4,22,AC_HIGH_(22-49kW),false
+130898,Greenway Auchan Katowice,Katowice,PL,Silisian Voiodeship,50.273895,18.969434,1,40,AC_HIGH_(22-49kW),false
+130897,Greenway Silesia City Center Katowice,Katowice,PL,Silisian Voiodeship,50.27088,19.007228,1,50,DC_FAST_(50-149kW),true
+130291,Greenway Polska Auchan Katowice,Katowice,PL,Silisian Voiodeship,50.230236,18.949922,1,40,AC_HIGH_(22-49kW),false
